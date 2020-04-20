@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Horizons_Parser</RootNamespace>
+    <Version>0.0.1</Version>
+    <Authors>Igromanru</Authors>
+    <Copyright>Igromanru</Copyright>
+  </PropertyGroup>
+
+</Project>
